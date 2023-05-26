@@ -6,6 +6,9 @@ Run:
 Write data.s with the instructions you want to be transalated to machine code  
 Run Assembler.py  
 Read from out.txt  
+```
+python3 Assembler.py
+```
 
 Instructions Supported:  
 ADC | ADD | AND | B | BIC | BL | BLX | BX | CLZ | CMN | CMP | EOR | LDM |  
